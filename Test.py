@@ -1,5 +1,4 @@
 
-print("Hello orld")
-print("Hello orld")
-print("Hello orld")
-
+print("Hello korld")
+print("Hello korld")
+print("Hello korld")
