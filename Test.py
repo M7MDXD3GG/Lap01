@@ -1,4 +1,3 @@
-
-print("Hello korld")
-print("Hello korld")
-print("Hello korld")
+print("Hello world")
+print("Hello world")
+print("Hello world")
