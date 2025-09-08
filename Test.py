@@ -1,3 +1,3 @@
-print("Hello torld")
-print("Hello torld")
-print("Hello torld")
+print("Hello sorld")
+print("Hello sorld")
+print("Hello sorld")
